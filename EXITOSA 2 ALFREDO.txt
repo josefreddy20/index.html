@@ -130,7 +130,7 @@
 
     <footer>
         <p>&copy; 2025 FreddyFacturas. Todos los derechos reservados.</p>
-        <p>Contáctanos: soporte@freddyfacturas.com | +52 55 1234 5678</p>
+        <p>Contáctanos: soporte@freddyfacturas.com | ---------------</p>
     </footer>
 
     <script>
